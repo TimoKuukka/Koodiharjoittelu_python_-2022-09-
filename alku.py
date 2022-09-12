@@ -1,5 +1,5 @@
 
-# Tämä on aloitusskriptiggg
+# Tämä on aloitusskripti
 
 import henkilö
 import vuodet
